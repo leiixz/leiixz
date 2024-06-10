@@ -11,7 +11,8 @@
 > *MySQL* and *Scratch*
 
 ### Projects 📂
-- **No current projects...**
+> **No current projects...**
+<!-- **[Project Name](#)** - Brief description of what the project does and technologies used. -->
 
 ### Education 🎓
 + **Bachelor of Science in Computer Science**  
@@ -27,3 +28,5 @@
 + *Watching musicals*
 + *Collecting various items*
 + *Reading webtoons*
+
+<!-- Comment -->
