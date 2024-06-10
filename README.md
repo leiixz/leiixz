@@ -22,11 +22,11 @@
   *Systems Technology Institute*, *2020 - 2022*
 
 ### Hobbies & Interests ❣️
-+ *Playing Roblox and exploring Pokémon-inspired games*
-+ *Dancing and Listening to Musics*
-+ *Editing videos and musics*
-+ *Watching musicals*
-+ *Collecting various items*
-+ *Reading webtoons*
++ 🎮 *Playing Roblox and exploring Pokémon-inspired games*
++ 🎶 *Dancing and Listening to Musics*
++ 🎬 *Editing videos and musics*
++ 🎤 *Watching musicals*
++ 📔 *Collecting various items*
++ 👓 *Reading webtoons*
 
 <!-- Comment -->
