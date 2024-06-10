@@ -8,7 +8,7 @@
 [![My Tools](https://skillicons.dev/icons?i=figma,github,robloxstudio,visualstudio,vscode&theme=dark)](https://skillicons.dev)
 
 ### Others 🔍
-> *MySQL* and *Scratch*
+> **MySQL and Scratch**
 
 ### Projects 📂
 > **No current projects...**
