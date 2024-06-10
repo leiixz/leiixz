@@ -14,10 +14,10 @@
 - **No current projects...**
 
 ### Education 🎓
-+ **Bachelor of Science in Computer Science** 🧑‍💻 
++ **Bachelor of Science in Computer Science**  
   *Systems Technology Institute*, *2022 - Present*
 
-+ **IT in Mobile App and Web Development** 💻 
++ **IT in Mobile App and Web Development**  
   *Systems Technology Institute*, *2020 - 2022*
 
 ### Hobbies & Interests ❣️
