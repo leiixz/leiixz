@@ -13,20 +13,3 @@
 ### Projects 📂
 > **No current projects...**
 <!-- **[Project Name](#)** - Brief description of what the project does and technologies used. -->
-
-### Education 🎓
-+ **Bachelor of Science in Computer Science**  
-  *Systems Technology Institute*, *2022 - Present*
-
-+ **IT in Mobile App and Web Development**  
-  *Systems Technology Institute*, *2020 - 2022*
-
-### Hobbies & Interests ❣️
-+ 🎮 *Playing Roblox and exploring Pokémon-inspired games*
-+ 🎶 *Dancing and Listening to Musics*
-+ 🎬 *Editing videos and musics*
-+ 🎤 *Watching musicals*
-+ 📔 *Collecting various items*
-+ 👓 *Reading webtoons*
-
-<!-- Comment -->
