@@ -11,5 +11,4 @@
 > **JCreator, MySQL, NetBeans, and Scratch**
 
 ### Projects 📂
-> **No current projects...**
-<!-- **[Project Name](#)** - Brief description of what the project does and technologies used. -->
+> **[Roblox Game Blog](https://leiixz.github.io/roblox-game-blog/)** - A Roblox game blog built with HTML, CSS, and JavaScript, featuring game description and insights about various Roblox games.
