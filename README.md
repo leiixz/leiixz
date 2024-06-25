@@ -5,9 +5,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,css,html,js,lua,py&theme=dark)](https://skillicons.dev)
 
 ### Tools 🛠️
-[![My Tools](https://skillicons.dev/icons?i=figma,github,robloxstudio,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)
 
-### Others 🔍
+### Other Tools 🔍
 > **JCreator, MySQL, NetBeans, and Scratch**
 
 ### Projects 📂
