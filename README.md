@@ -15,4 +15,5 @@
 > **[Scratch](https://scratch.mit.edu/)**
 
 ### Projects 📂
-> <a href="https://github.com/yourusername/roblox-game-blog" target="_blank"><b>Roblox Game Blog</b></a> - A Roblox game blog built with HTML, CSS, and JavaScript, featuring game description and insights about various Roblox games.
+> _Currently reorganizing and updating my public repositories.  
+New and improved projects coming soon._
