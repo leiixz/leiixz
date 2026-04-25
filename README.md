@@ -18,11 +18,22 @@
 
 | Stage | Milestone | Status |
 | :--- | :--- | :--- |
-| **01** | $\color{#84A98C}{\text{Core Portfolio Architecture and Logic}}$ | `Complete` |
-| **02** | $\color{#E9C46A}{\text{Curating the Graphic Design Collection}}$ | `Initializing` |
-| **03** | $\color{#B5838D}{\text{Unified Deployment and Interface Polish}}$ | `In Queue` |
+| **01** | $\color{#6B8E23}{\text{System Architecture and Documentation}}$ | `Complete` |
+| **02** | $\color{#D4A017}{\text{Structural Prototyping and Interface Design}}$ | `Initializing` |
+| **03** | $\color{#A0522D}{\text{High-Fidelity Asset Integration}}$ | `In Queue` |
 
-**Legend:** $\color{#84A98C}{\text{■}}$ Finished | $\color{#E9C46A}{\text{■}}$ Initializing | $\color{#B5838D}{\text{■}}$ In Queue
+**Legend:** $\color{#6B8E23}{\text{■}}$ Finished | $\color{#D4A017}{\text{■}}$ Initializing | $\color{#A0522D}{\text{■}}$ In Queue
+<hr />
+
+### 📊 System Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leiixz&show_icons=true&bg_color=00000000&title_color=84A98C&text_color=777&icon_color=E9C46A&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiixz&layout=compact&bg_color=00000000&title_color=84A98C&text_color=777&hide_border=true" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leiixz&theme=transparent&currStreakLabel=84A98C&fire=E9C46A&sideLabels=777&dates=777&hide_border=true" />
+</p>
 <hr />
 
 ### ⚡ Quick Bits
