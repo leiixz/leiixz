@@ -27,12 +27,12 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leiixz&show_icons=true&bg_color=00000000&title_color=84A98C&text_color=777&icon_color=E9C46A&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=annilei-inokh-santos&show_icons=true&bg_color=00000000&title_color=84A98C&text_color=777&icon_color=E9C46A&hide_border=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiixz&layout=compact&bg_color=00000000&title_color=84A98C&text_color=777&hide_border=true" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leiixz&theme=transparent&currStreakLabel=84A98C&fire=E9C46A&sideLabels=777&dates=777&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annilei-inokh-santos&theme=transparent&currStreakLabel=84A98C&fire=E9C46A&sideLabels=777&dates=777&hide_border=true" />
 </p>
 <hr />
 
@@ -43,6 +43,6 @@
 <hr />
 
 ### 📫 Connectivity
-<a href="www.linkedin.com/in/annilei-inokh-santos-2175923a7" target="_blank">
+<a href="www.linkedin.com/in/annilei-inokh-santos/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
