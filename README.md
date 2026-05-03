@@ -26,8 +26,33 @@
 <hr />
 
 ### 📊 System Analytics
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annilei-inokh-santos&theme=transparent&currStreakLabel=84A98C&fire=E9C46A&sideLabels=777&dates=777&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annilei-inokh-santos&bg_color=00000000&color=A78BCA&line=7EB8D4&point=A78BCA&hide_border=true&custom_title=annilei-inokh-santos'%20Activity%20Graph" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annilei-inokh-santos&bg_color=00000000&color=6B4FA0&line=2E7EA6&point=6B4FA0&hide_border=true&custom_title=annilei-inokh-santos'%20Activity%20Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=annilei-inokh-santos&bg_color=00000000&color=A78BCA&line=7EB8D4&point=A78BCA&hide_border=true&custom_title=annilei-inokh-santos'%20Activity%20Graph" />
+  </picture>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=annilei-inokh-santos&background=00000000&ring=A78BCA&currStreakLabel=A78BCA&currStreakNum=7EB8D4&sideLabels=8899AA&dates=6677AA&sideNums=A78BCA&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=annilei-inokh-santos&background=00000000&ring=6B4FA0&currStreakLabel=6B4FA0&currStreakNum=2E7EA6&sideLabels=556677&dates=3D4F7A&sideNums=6B4FA0&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=annilei-inokh-santos&background=00000000&ring=A78BCA&currStreakLabel=A78BCA&currStreakNum=7EB8D4&sideLabels=8899AA&dates=6677AA&sideNums=A78BCA&hide_border=true" />
+  </picture>
+</p>
+<hr />
+
+<!-- Trophies -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=annilei-inokh-santos&theme=darkhub&no-frame=true&column=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=annilei-inokh-santos&theme=flat&no-frame=true&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=annilei-inokh-santos&theme=darkhub&no-frame=true&column=7" />
+  </picture>
 </p>
 <hr />
 
