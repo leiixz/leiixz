@@ -27,8 +27,7 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://github-readme-stats-eight-gilt.vercel.app/api?user=annilei-inokh-santos&show_icons=true&bg_color=00000000&title_color=84A98C&text_color=777&icon_color=E9C46A&hide_border=true" width="400" />
-  <img src="https://github-readme-stats-eight-gilt.vercel.app/api/top-langs/?username=annilei-inokh-santos&layout=compact&bg_color=00000000&title_color=84A98C&text_color=777&hide_border=true" width="300" />
+  <img src="https://streak-stats.demolab.com?user=annilei-inokh-santos&background=00000000&ring=84A98C&fire=E9C46A&currStreakLabel=84A98C&sideLabels=777&dates=777&hide_border=true" width="400" />
 </p>
 
 <p align="center">
