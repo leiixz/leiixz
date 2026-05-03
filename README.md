@@ -27,10 +27,6 @@
 
 ### 📊 System Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=annilei-inokh-santos&background=00000000&ring=84A98C&fire=E9C46A&currStreakLabel=84A98C&sideLabels=777&dates=777&hide_border=true" width="400" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annilei-inokh-santos&theme=transparent&currStreakLabel=84A98C&fire=E9C46A&sideLabels=777&dates=777&hide_border=true" />
 </p>
 <hr />
