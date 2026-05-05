@@ -24,8 +24,6 @@ both the developer and the designer in me. Welcome to my space — feel free to 
 
 ### 📂 Project Roadmap: Portfolio Website
 
-[![GitHub](https://img.shields.io/badge/_-Portfolio_Website-blue?style=flat&logo=github)](https://annilei-inokh-santos.github.io/)
-
 | Stage | Milestone | Status |
 | :--- | :--- | :--- |
 | **01** | $\color{#6B8E23}{\text{System Architecture and Documentation}}$ | `Complete` |
@@ -33,6 +31,8 @@ both the developer and the designer in me. Welcome to my space — feel free to 
 | **03** | $\color{#A0522D}{\text{High-Fidelity Asset Integration}}$ | `In Queue` |
 
 **Legend:** $\color{#6B8E23}{\text{■}}$ Finished | $\color{#D4A017}{\text{■}}$ Initializing | $\color{#A0522D}{\text{■}}$ In Queue
+
+[![GitHub](https://img.shields.io/badge/_-Portfolio_Website-blue?style=flat&logo=github)](https://annilei-inokh-santos.github.io/)
 <hr />
 
 ### 📊 System Analytics
