@@ -3,6 +3,14 @@
 </a>
 <hr />
 
+### 👋 Greetings!
+Hello, I'm **Annilei Inokh** — a graduating Computer Science student with an eye for how things look *and* how they work.
+I gravitate toward the intersection of logic and design, where clean code meets intentional UI.
+On the final stretch now, focused on web development and building a portfolio that reflects
+both the developer and the designer in me. Welcome to my space — feel free to explore.
+
+<hr />
+
 ### 🛠️ Technical Stack
 > Core technologies utilized across academic and creative development.
 
@@ -15,6 +23,8 @@
 <hr />
 
 ### 📂 Project Roadmap: Portfolio Website
+
+[![GitHub](https://img.shields.io/badge/_-Portfolio_Website-blue?style=flat&logo=github)](https://annilei-inokh-santos.github.io/)
 
 | Stage | Milestone | Status |
 | :--- | :--- | :--- |
