@@ -69,7 +69,7 @@ both the developer and the designer in me. Welcome to my space — feel free to 
 ### ⚡ Quick Bits
 * **The Perfectionist Loop:** I will spend 2+ hours refactoring a component just to make the code look as "sculptural" as the UI.
 * **The "Detail-Oriented" Curse:** Noticing a slight misalignment in a layout is my version of a jump scare. 
-* **Essential Fuel:** Iced coffee, the only thing keeping the System Online.
+* **Essential Fuel:** Iced coffee, the only thing keeping my System Active.
 <hr />
 
 ### 📫 Connectivity
