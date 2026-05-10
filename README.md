@@ -73,6 +73,6 @@ both the developer and the designer in me. Welcome to my space — feel free to 
 <hr />
 
 ### 📫 Connectivity
-<a href="www.linkedin.com/in/annilei-inokh-santos/" target="_blank">
+<a href="https://www.linkedin.com/in/annilei-inokh-santos/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
