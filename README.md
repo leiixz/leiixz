@@ -4,7 +4,7 @@
 <hr />
 
 ### 👋 Greetings!
-Hello, I'm **Annilei Inokh** — a graduating Computer Science student with an eye for how things look *and* how they work.
+Hello, I'm **Annilei Inokh** _(He/They)_ — a graduating Computer Science student with an eye for how things look *and* how they work.
 I gravitate toward the intersection of logic and design, where clean code meets intentional UI.
 On the final stretch now, focused on web development and building a portfolio that reflects
 both the developer and the designer in me. Welcome to my space — feel free to explore.
